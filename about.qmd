@@ -1,0 +1,19 @@
+---
+title: "About"
+image: images/profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: lightning-charge-fill
+      text: Tip with lightning
+      href: https://getalby.com/p/automaticsigil
+    - icon: envelope
+      text: Nostr
+      href: https://snort.social/p/npub1w83qy86qakjqrp8r99cfxpm9ad43tswv3f9xqw87wt8kspdyj3tsqxynzu
+
+---
+
+
+This is where I stash my tabletop RPG creations.
+
+In this golden age of independent RPG content, I humbly offer these works to you. I hope you find them useful and inspiring. 

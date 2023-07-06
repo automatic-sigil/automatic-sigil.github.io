@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Automatic sigil - The core rules: characters</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/profile.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Automatic sigil</span>
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html">About</a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">The core rules: characters</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title d-none d-lg-block">The core rules: characters</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Rules</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../posts/core_rules_game/index.html" class="sidebar-item-text sidebar-link">The core rules: gameplay</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../posts/core_rules_characters/index.html" class="sidebar-item-text sidebar-link active">The core rules: characters</a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#creating-a-character" id="toc-creating-a-character" class="nav-link active" data-scroll-target="#creating-a-character">Creating a character</a></li>
+  <li><a href="#starting-equipment-table" id="toc-starting-equipment-table" class="nav-link" data-scroll-target="#starting-equipment-table">Starting equipment table</a></li>
+  <li><a href="#character-advancement" id="toc-character-advancement" class="nav-link" data-scroll-target="#character-advancement">Character advancement</a></li>
+  <li><a href="#advancements" id="toc-advancements" class="nav-link" data-scroll-target="#advancements">Advancements</a>
+  <ul class="collapse">
+  <li><a href="#sorcery" id="toc-sorcery" class="nav-link" data-scroll-target="#sorcery">Sorcery</a></li>
+  </ul></li>
+  <li><a href="#starting-arcana" id="toc-starting-arcana" class="nav-link" data-scroll-target="#starting-arcana">Starting arcana</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<p><img src="theknightatthecrossroads.jpg" class="img-fluid"></p>
+<section id="creating-a-character" class="level1">
+<h1>Creating a character</h1>
+<p>Roll 3d6 for each of your Ability scores:</p>
+<ul>
+<li><strong>Strength</strong></li>
+<li><strong>Dexterity</strong></li>
+<li><strong>Will</strong></li>
+</ul>
+<p>You may choose to swap two of these scores.</p>
+<p>Roll 1d6 for your Hit points (HP).</p>
+<p>HP is a measure of your character’s ability to avoid life-threatening wounds.</p>
+<p>Roll 1d100 to determine how many Schillings you have.</p>
+<p>Roll on the starting equipment table.</p>
+<p>The starting equipment table should vary based on your setting. There is an example table below.</p>
+</section>
+<section id="starting-equipment-table" class="level1">
+<h1>Starting equipment table</h1>
+<p>If your roll includes an Arcanum then you should also roll on the <a href="#starting-arcana">Starting arcana table</a>.</p>
+<table class="table">
+<colgroup>
+<col style="width: 1%">
+<col style="width: 16%">
+<col style="width: 15%">
+<col style="width: 16%">
+<col style="width: 14%">
+<col style="width: 17%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>1 HP</th>
+<th>2 HP</th>
+<th>3 HP</th>
+<th>4 HP</th>
+<th>5 HP</th>
+<th>6 HP</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>3-9</td>
+<td>Saber (d6) Musket (d8) Arcanum 3 Bombs (2d12) Walking Stick</td>
+<td>Rapier (d4) Hatchet (d8) Arcanum Pliers Caltrops</td>
+<td>Musket (d8) Pistol (d6) Arcanum 3 Bombs (2d12) Pick Axe</td>
+<td>Hatchet (d6) Shortsword (d6) Pliers Grease</td>
+<td>Machete (d6) Bow and Arrow (d6) Walking Stick Deck of Cards</td>
+<td>Great Sword (d8) Blunderbuss (d10) Sewing Needle</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Musket (d8) Shortsword (d6) Arcanum Weapon Repair Kit</td>
+<td>Pistol (d6) Bow and Arrow (d6) Arcanum Lock Pick</td>
+<td>Hatchet (d6) Great Sword (d8) Arcanum Weapon Repair Kit</td>
+<td>Dagger (d6) Bayonette (d6) Grappling Hook</td>
+<td>Pistol (d6) Hatchet (d6) Crowbar Compact Mirror</td>
+<td>Concealable Pistol (d6) Musket (d8) Pick Axe 10 Schillings</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Blunderbuss (d10) 1 Stick of Dynamite (3d6) Arcanum Acid Compact Mirror</td>
+<td>Maul (d8) Throwing Axe (d6) Arcanum Lock Pick Caltrops</td>
+<td>Dagger (d6) Net Arcanum Weapon Repair Kit</td>
+<td>Rapier (d4) Pistol (d6) Grease Armor (1)</td>
+<td>Club (d6) Bow and Arrow (d6) Chisel 2 sticks of Dynamite (3d6)</td>
+<td>Glaive (d6) Throwing Knives (d4) Caltrops Weapons Repair Kit</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>Axe (d6) Whip (d4) Arcanum Pick Axe 10 Schillings</td>
+<td>Spear (d6) Pistol (d6) Iron Spikes Crowbar</td>
+<td>Halberd (d8) Pistol (d6) Shovel Armor (2)</td>
+<td>Pistol (d6) Maul (d8) 3 bombs (2d12) Grease</td>
+<td>Saber (d6) Shortsword (d6) Lock Pick Caltrops</td>
+<td>Machete (d6) Musket (d8) Shovel Sewing Needle</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>Shortsword (d6) Pistol (d6) Arcanum Acid Armor (2)</td>
+<td>Great Sword (d8) Hatchet (d6) Chisel Acid</td>
+<td>Bow and Arrow (d6) Rapier (d4) Grappling Hook Lock Pick</td>
+<td>Halberd (d8) Bayonet (d6) Pick Axe Spyglass</td>
+<td>Musket (d8) Shortsword (d6) Weapon Repair Kit Cigarettes</td>
+<td>Wood Staff (d6) Dagger (d6)H Hammer 2 Sticks of Dynamite (3d6)</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>Dagger (d6) Musket (d8) Arcanum Pick Axe 3 flashbangs</td>
+<td>Bow and Arrow (d6) Grappling Hook Spyglass Pliers</td>
+<td>Throwing Axe (d6) Halberd (d8) Armor (1) Crowbar</td>
+<td>Club (d6) Hatchet (d6) Armor (2) Cigarettes</td>
+<td>Club (d6) Blunderbuss (d10) Weapon Repair Kit Caltrops</td>
+<td>Great Sword (d8) Pistol (d6) Sewing Needle 2 Sticks of Dynamite (2d12)</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>Spear (d6) Axe (d8) 10 Schillings 3 bombs (2d12)</td>
+<td>Club (d6) Shortsword (d6) 1 Stick of Dynamite (3d6) Grappling Hook</td>
+<td>Machete (d6) Hatchet (d6) Shovel Caltrops</td>
+<td>Great Sword (d8) Bayonet (d6) Grappling Hook Weapon Repair Kit</td>
+<td>Axe (d6) Saber (d6) 2 sticks of dynamite (2d12) Pick Axe</td>
+<td>Great Sword (d8) Bow and Arrow (d6) 10 Schillings 1 bomb (2d12)</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>Saber (d6) Bow and Arrow (d6) Armor(1) Dice 1 flashbang</td>
+<td>Dagger (d6) Dagger (d6) Lock Pick 10 Schillings</td>
+<td>Maul (d8) Saber (d6) Armor(1) Crowbar</td>
+<td>Shortsword (d6) Pistol (d6) Weapon Repair Kit Spyglass</td>
+<td>Bow and Arrow (d6) Rapier (d4) Armor(2) Lock Pick</td>
+<td>Hatchet (d6) Wood Staff (d6) Caltrops 10 Schillings</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>Halberd (d8) Musket (d8) Armor(2) Pick Axe</td>
+<td>Spear (d6) Concealable Pistol (d6) Chisel Compact Mirror</td>
+<td>Axe (d6) Throwing Knives (d4) 2 Sticks of Dynamite (3d6) Chain and Lock</td>
+<td>Throwing Axe (d6) Throwing Knives (d4) Iron Spikes 1 flashbang</td>
+<td>Wood Staff (d6) Net 10 Schillings Chain and Lock</td>
+<td>Musket (d8) Pistol (d6) Poison Darts (d4) Cigarettes</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>Bayonet (d6) Musket (d8) 3 sticks of dynamite (3d6) Weapon Repair Kit</td>
+<td>Dagger (d6) Hatchet (d6) Dice Iron Spikes</td>
+<td>Club (d6) Pistol (d6) Crowbar Weapon Repair Kit</td>
+<td>Rapier (d4) 1 stick of dynamite (3d6) Chisel Weapon Repair Kit</td>
+<td>Pistol (d6) Throwing Knives (d4) Shovel Caltrops</td>
+<td>Wood Staff (d6) Hatchet (d4) Shovel Caltrops</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="character-advancement" class="level1">
+<h1>Character advancement</h1>
+<p>Characters gain Experience (XP) by surviving encounters and interacting with the world.</p>
+<ul>
+<li><strong>1 XP</strong>: A simple encounter with minor damage</li>
+<li><strong>2 XP</strong>: A difficult encounter with moderate damage but no fatalities</li>
+<li><strong>3 XP</strong>: A dangerous encounter with a fatality or permanent consequences</li>
+<li><strong>4 XP</strong>: A deadly encounter with multiple fatalities, massive damage, or harrowing retreat</li>
+</ul>
+<p>Complex interactions with NPCs, especially if they are accompanied by difficult choices, should also provide XP. Finding a teacher or patron can be another source of XP.</p>
+<p>When you gain enough XP to Advance, roll a d20 for each ability score. If the roll is greater than your score, raise it by 1, to a maximum of 18.</p>
+<p>Characters advance along the following schedule.</p>
+<ul>
+<li><strong>Level 1</strong> : 5 XP</li>
+<li><strong>Level 2</strong>: 10 XP</li>
+<li><strong>Level 3</strong>: 20 XP</li>
+<li><strong>Level 4</strong>: 40 XP</li>
+<li><strong>Level 5</strong>: 80 XP</li>
+</ul>
+<p>If your Characters survive past Level 5, continue doubling the XP requirement for each additional level.</p>
+<p>XP is not cumalative. Everytime a character Advances to the next level their XP count returns to 0.</p>
+<p>At each Advancement, choose an Advancement skill. Each Advancement skill includes a hit die. Roll this die and add it to your maximum HP, to a maximum of 20.</p>
+<p>You’ll want to create Advancement skills specific to your setting, but here are some examples.</p>
+<p>At each Advancement, choose one of the below. Each Advancement includes a hit die. Roll this die and add it to your maximum HP, to a maximum of 20.</p>
+<p>If your campaign is long-running, listen to your players to create further Advancement options that increase their power and cool factor. Just be sure to make them work for it!</p>
+</section>
+<section id="advancements" class="level1">
+<h1>Advancements</h1>
+<table class="table">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 17%">
+<col style="width: 56%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Advancement</th>
+<th style="text-align: center;">Hit die</th>
+<th style="text-align: center;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Healer</td>
+<td style="text-align: center;">d4</td>
+<td style="text-align: center;">Use your Action to tend to an injured ally. Your medical skill, charms, and potions return d4+2 hit points.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Assassin</td>
+<td style="text-align: center;">d6</td>
+<td style="text-align: center;">When you attack an enemy who is unaware of your presence, your damage hits their Strength score directly, bypassing their hit points.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Sure-footed</td>
+<td style="text-align: center;">d6</td>
+<td style="text-align: center;">You never lose your balance or grip in difficult or slippery terrain. Effectively, you don’t need to make Dexterity Saves in situations that involve slipping, falling, or balancing.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Thief</td>
+<td style="text-align: center;">d6</td>
+<td style="text-align: center;">You can unlock any door, vault, or chest, and disarm any trap. Use of your Thief tools does not cost an additional Supply per Turn.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Silent steps</td>
+<td style="text-align: center;">d6</td>
+<td style="text-align: center;">You always move completely silently.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Blade in the dark</td>
+<td style="text-align: center;">d6</td>
+<td style="text-align: center;">When you hide in deep shadow, you are invisible until someone is right on top of you.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Gunslinger</td>
+<td style="text-align: center;">d6</td>
+<td style="text-align: center;">Use your action to reload two firearms, or use a bonus action to reload one firearm.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Berserker</td>
+<td style="text-align: center;">d8</td>
+<td style="text-align: center;">You may choose to ignore the effects of damage taken by instead taking d6 Will damage.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Ironclad</td>
+<td style="text-align: center;">d8</td>
+<td style="text-align: center;">Double the value of any armor you wear. Eg, 1 armor grants 2, 2 armor grants 4</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Swashbuckler</td>
+<td style="text-align: center;">d8</td>
+<td style="text-align: center;">Whenver you slay a target with a melee attack, you may immediately make and additional melee attack against another target within range.</td>
+</tr>
+</tbody>
+</table>
+<section id="sorcery" class="level3">
+<h3 class="anchored" data-anchor-id="sorcery">Sorcery</h3>
+<p>To become a Sorceror requires training from a knowledgeable master, a pact with an appropriate patron, or contact with magical energy. A player annot choose this advancement otherwise.</p>
+<p>The Sorceror advancement can be given any flavor you like, and you could easiliy substitute the word wizard, druid, warlock etc.</p>
+<p>Choose a spell list and magic system from another game you enjoy, or make up spells as you go along.</p>
+<table class="table">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 17%">
+<col style="width: 56%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Sorceror</td>
+<td style="text-align: center;">d4</td>
+<td style="text-align: center;">May be chosen multiple times. You can cast spells. Your maximum known spells is 2, plus 1 for each time you choose this advancment.</td>
+</tr>
+</tbody>
+</table>
+<p>A Character at level 3 or higher may also choose from the advancements below.</p>
+<table class="table">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 17%">
+<col style="width: 56%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Veteran</td>
+<td style="text-align: center;">d8</td>
+<td style="text-align: center;">Whenever you attack, you may add an additional effect, such as knock back, blind, trip, throw, immobilize, disarm etc. The target may Save if the Referee deems that appropriate.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Weapon Master</td>
+<td style="text-align: center;">d8</td>
+<td style="text-align: center;">May be chosen multiple times. Choose one weapon type. Attacks with that weapon are always Enhanced.</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="starting-arcana" class="level1">
+<h1>Starting arcana</h1>
+<table class="table">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 17%">
+<col style="width: 56%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Roll</th>
+<th style="text-align: center;">Arcana</th>
+<th style="text-align: center;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">Glass rose</td>
+<td style="text-align: center;">Choose one of your senses and amplify its acuity to uncanny levels.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">Kendama</td>
+<td style="text-align: center;">Choose a living thing in your line of sight. Swap places with it immediately.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">Hairpin staff</td>
+<td style="text-align: center;">This wooden hairpin extends in length and width up to the size of a log. It can be broken, though it has the strength of well constructed alloyed metal.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">Wolf talisman</td>
+<td style="text-align: center;">Become a werewolf. Your speed and strength are increased. Your attacks deal d8 damage and your armor is increased to 3. After 20 minutes, you make a Strength Save. If you fail, you return to your normal form and are incapacitated until you can rest. If you succeed, you return to your normal form with no complications.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">Umbrella</td>
+<td style="text-align: center;">Pop it open to glide down from great heights. It can support 2 people, but loses it’s effectiveness with more weight.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">Rusted crown</td>
+<td style="text-align: center;">While wearing the crown you can sense intelligent creatures nearby. After use, make a Will Save. After 3 failed saves in a row, you refuse to take the crown off and it fuses with your skull.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">Magnifying lense</td>
+<td style="text-align: center;">Shrink an object to a size that would fit in a backpack. The lense can also restore the object to its original size. It can only be applied to one object at a time. If applied to a living creature, the user must make a Will Save or the creature returns to normal size with a deformity.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">Obsidian dagger</td>
+<td style="text-align: center;">Wetting this dagger with your own blood allows your spirit to project outside of your body. You can then float freely through the air and through objects. Take heed, beings that inhabit those formless realms may take notice.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">Whale bone flute</td>
+<td style="text-align: center;">Play a melody and make a Will Save. If you pass, your song summons an angelic being. If you can convince this being that your cause is worthwhile, make a specific request and the being will aid you. If you fail, you summon a demon who immediately begins attacking everyone nearby. The angel or demon has HP 10, Strength 14, Dex 11, Will 14, and Armor 2.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">Talisman of protection</td>
+<td style="text-align: center;">Create a 1 yard (meter) diameter forcefield with 10 HP. Attacks or beings you do not wish to enter cannot pass. If the forcefield is reduced to 0 or less HP, make a Will Save. If you fail, you take the full brunt of the damage that shattered the shield as Will damage.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">Monster mask</td>
+<td style="text-align: center;">While wearing this mask any non-monstruous humanoid will be terrified of your. Wearing this in a crowded place will likely result in a mob trying to capture and kill you.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">Akhashic records</td>
+<td style="text-align: center;">With a specific domain of knowledge or question in mind, open this book and peer into the void. The knowledge you seek is yours. Successive uses on the same day require a Will Save. If you fail take d12 Will damage.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">Seance candle</td>
+<td style="text-align: center;">Light this candle and call the spirit of a specific non-living person. If you light the candle in front of a corpse you can summon that person’s spirit.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">Bird familiar</td>
+<td style="text-align: center;">Leaves and sticks in the form of a bird and imbued with life. The bird behaves as an extension of your will. It has the same HP as your character. If it ever reaches 0 HP it is dead.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">Ivory turtle</td>
+<td style="text-align: center;">Humanoids that see this little carved turtle become hypnotized by its energy. Hypnotized victims make a Will Save each turn. Once they pass a Save, the turtle no longer has an effect on them.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">Spider twine</td>
+<td style="text-align: center;">Shoot a strand of sticky spider web. Enemies trapped by multiply strands must make a Strength Save to break free.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">17</td>
+<td style="text-align: center;">Enchanted spear</td>
+<td style="text-align: center;">This finely crafted spear deals d8 damage. When thrown, it will reverse course and fly back to its owner on the next turn.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">Lightning spear</td>
+<td style="text-align: center;">This spear has two pincer like blades that electrify on contact. Hit a target, dealing d8 damage and forcing the target to make a Strength Save. One a fail, the target is stunned for their next utrn.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">Mask of the leper king</td>
+<td style="text-align: center;">Provides 1 Armor. Anyone who lies while wearing this mask will contract leprosy.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">Eye of the thief</td>
+<td style="text-align: center;">Activate this stone carved eye to determine if your mark is carrying valuables or Arcana. This can only be used on one person per Turn.</td>
+</tr>
+</tbody>
+</table>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
