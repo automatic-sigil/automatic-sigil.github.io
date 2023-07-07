@@ -6,6 +6,7 @@ listing:
   fields: [image, title]
   sort: "date desc"
   type: default
+  image-height: 200px 
   sort-ui: false
   filter-ui: false
 page-layout: full
