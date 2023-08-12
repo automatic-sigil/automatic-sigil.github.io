@@ -135,6 +135,6 @@ A Character at level 3 or higher may also choose from the advancements below.
 | 15 | Ivory turtle  | Humanoids that see this little carved turtle become hypnotized by its energy.  Hypnotized victims make a Will Save each turn.  Once they pass a Save, the turtle no longer has an effect on them. |
 | 16 | Spider twine  | Shoot a strand of sticky spider web.  Enemies trapped by multiply strands must make a Strength Save to break free. |
 | 17 | Enchanted spear | This finely crafted spear deals d8 damage.  When thrown, it will reverse course and fly back to its owner on the next turn. | 
-| 18 | Lightning spear  | This spear has two pincer like blades that electrify on contact.  Hit a target, dealing d8 damage and forcing the target to make a Strength Save. One a fail, the target is stunned for their next utrn.  |
+| 18 | Lightning spear  | This spear has two pincer like blades that electrify on contact.  Hit a target, dealing d8 damage and forcing the target to make a Strength Save. One a fail, the target is stunned for their next turn.  |
 | 19 | Mask of the leper king | Provides 1 Armor.  Anyone who lies while wearing this mask will contract leprosy. |
 | 20 | Eye of the thief | Activate this stone carved eye to determine if your mark is carrying valuables or Arcana.  This can only be used on one person per Turn. |

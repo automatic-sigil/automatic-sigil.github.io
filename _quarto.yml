@@ -15,11 +15,12 @@ website:
         contents:
           - href: posts/core_rules_game/index.qmd
           - href: posts/core_rules_characters/index.qmd
+      - section: "Settings"
+        contents:
+          - href: posts/Britannia/index.qmd
 
 format:
   html:
     theme: simplex
     css: styles.css
-
-
 

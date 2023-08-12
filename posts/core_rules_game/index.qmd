@@ -20,7 +20,7 @@ This page contains the mechanical rules that describe how the game operates. For
  
 # Turns
 
-On your Turn, you can move and perform an action. Turns should move in some established order around the table.
+On your Turn, you can Move and perform an Action. Turns should move in some established order around the table.
 
 In combat, the Referee describes what the enemy is about to do and asks each player what they would like to do in response. All rolls are made and the combat round is resolved simultaneously.
 
@@ -95,6 +95,8 @@ If the players are in darkness, each turn costs 2 Supply. Using an item or tool 
 Retreating or retracing already covered ground costs 0 Supply, unless a Random encounter occurs.
 
 If a player runs out of Supply, all their rolls are Impaired. They will not be able to see in the dark, and they lose 1 HP per turn. A player without Supply cannot rest.
+
+Any player who loses track of their Supply has lost all of their Supply in the game. 
 
 # Morale
 
