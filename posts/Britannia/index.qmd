@@ -1,6 +1,6 @@
 ---
 title: "Britannia"
-image: standing_stones.jpg
+image: images/standing_stones.jpg
 toc: true
 toc-location: right
 ---
