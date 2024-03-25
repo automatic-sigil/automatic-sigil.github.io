@@ -1,0 +1,47 @@
+---
+title: "Ered Luin - the north blue mountains"
+toc: true
+toc-location: right
+---
+
+![](images/himring.png)
+
+To the east, the icy caps of the Ered Luin range scrape the sky. In the west, the shores of the Great Sea chant a somber tune.  Between the two are vast and cold plains, dotted by ancient ruins from the First Age. Off the coast lies the island, Tol Himring, flanked by smaller jutting rocks.  In the south of this area on a small bay is a trapper outpost, visible at a distance only by the smoke of its fires. 
+
+# Tol Himring
+
+The majority of the island's coast is composed of cliffs of black rock, and ruined walls of white stone.  This is the abandoned fortress of Maedhros, an elf lord of the distant past. The island is a remnant hilltop of a catostrophic flood, which swallowed the surrounding land and now makes up the Great Sea. Staircases vanish into the deeps, and grand rooftops poke through the sea around the coast. 
+
+## Landing area
+
+## 
+
+## The wraith
+
+An elf stabbed by a morgul blade, turned to a wraith and occupies the tower. He cannot be killed except by finding his body in the lower levels and laying it to rest. He can, however, be temporarily incapacited by fire or bright light. 
+
+HP: Infinite
+Str: 16
+Dex: 15
+Will: 19
+
+Shriek - Will check or make all rolls Impaired for a full turn
+Sword - d6.  At 0 HP become afflicted with Morgul wraith sickness
+
+
+
+# Trapper outpost
+
+# Fisherman's hut
+
+
+# Random encounters
+
+| Roll | Encounter |
+|:---:|:---------:|
+| 1 |  Band of orcs |
+| 2 | Pirates |
+| 3 | Moth |
+| 4 |  |
+| 5 | Basic loot |
+| 6 |  Legendary loot | 

@@ -2,9 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/britannia_players/index.html",
+      "/posts/britannia_referee/index.html",
       "/posts/core_rules_characters/index.html",
       "/posts/core_rules_game/index.html",
-      "/posts/Britannia/index.html"
+      "/posts/middle_earth/index.html"
     ]
   }
 ]

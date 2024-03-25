@@ -17,7 +17,10 @@ website:
           - href: posts/core_rules_characters/index.qmd
       - section: "Settings"
         contents:
-          - href: posts/Britannia/index.qmd
+          - href: posts/britannia_players/index.qmd
+          - href: posts/britannia_referee/index.qmd
+          - href: posts/alagaesia/hex_test.qmd
+          - href: posts/middle_earth/index.qmd
 
 format:
   html:

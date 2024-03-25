@@ -1,0 +1,179 @@
+---
+title: "Middle Earth"
+image: images/middle_earth_hex.PNG
+toc: true
+toc-location: right
+---
+
+
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+
+    <img src="images/middle_earth_hex.PNG" alt="Hex Map">
+        <!-- 1st row -->
+        <a href="hex1_ered_luin.html" style="color: black; position: relative; top: -720px; left: 120px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: black; position: relative; top: -680px; left: 220px;"><i class="fas fa-tree"></i></a>
+
+        <!-- 2nd row -->
+        <a href="/" style="color: green; position: relative; top: -600px; left: 60px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: green; position: relative; top: -520px; left: 170px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: green; position: relative; top: -600px; left: 290px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: green; position: relative; top: -690px; left: 400px;"><i class="fas fa-tree"></i></a>
+
+        <!-- 3rd row -->
+        <a href="/" style="position: relative; top: -470px; left: 30px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="position: relative; top: -400px; left: 130px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="position: relative; top: -450px; left: 240px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="position: relative; top: -510px; left: 330px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="position: relative; top: -600px; left: 450px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="position: relative; top: -675px; left: 565px;"><i class="fas fa-tree"></i></a>
+
+        <!-- 4th row -->
+        <a href="/" style="color: blue; position: relative; top: -300px; left: 160px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: blue; position: relative; top: -380px; left: 280px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: blue; position: relative; top: -440px; left: 380px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: blue; position: relative; top: -520px; left: 490px;"><i class="fas fa-tree"></i></a>
+
+        <!-- 5th row -->
+        <a href="/" style="color: purple; position: relative; top: -160px; left: 90px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: purple; position: relative; top: -230px; left: 200px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: purple; position: relative; top: -300px; left: 320px;"><i class="fas fa-tree"></i></a>
+
+        <!-- 5th row -->
+        <a href="/" style="color: gray; position: relative; top: -130px; left: 290px;"><i class="fas fa-tree"></i></a>
+        <a href="/" style="color: gray; position: relative; top: -225px; left: 420px;"><i class="fas fa-tree"></i></a>
+
+```
+
+# Setting specific rules
+
+## Lore points
+
+Lore points are awarded for exploring locations and vanquishing mighty foes. Lore points can be spent in three ways:
+
+* to level up your Character
+* to re-Roll a failed Roll
+* to purchase Gear set items 
+
+## Gear sets
+
+To purchase Gear sets you must find the seller and become friendly with their people. If you equip 3 or more items in a Gear set you receive that set's bonus. 
+
+Each piece of gear also grants bonus Actions or Abilities. 
+
+### The Grey Company
+
+### Rangers of Ithilien
+
+Set bonus - Deal double Damage if attacking from stealth.
+
+Shroud of Osgiliath
+
+* When attacking with a bow, you can make two [Attacks](../core_rules_game/index.qmd#attacks)
+* Dexterity + 2
+* Will + 2
+
+Ithilien cloak
+
+* If not already seen, use this Ability to meld into your surroundings
+* Dexterity + 2
+* Strength + 2
+
+Tunic of the White Tree
+
+* Whenver you slay a target with a ranged Attack, you may immediately make and additional Attack, ranged or melee. 
+* Dexterity + 1
+* Strength + 1
+* Will + 1
+
+Numenorean Roots Boots
+
+* You will never get lost when navigating.
+* HP + 3
+
+Bracers of Denethor
+
+* When making a melee Attack, make a bonus unarmed (d4) melee Attack
+* Strength + 1
+* HP + 2
+
+
+### Rohan
+
+Helm of Edoras
+
+* All Rolls made on horseback are Enhanced
+* Strength + 2
+* Will + 2
+* Armor + 1
+
+Horsemaster's Cloak
+
+* 
+* Dexterity + 2
+* Strength + 2
+
+Tunic of the White Tower
+
+* Enter the fray with a heroic charge. All nearby allies make an extra Attack. 
+* Dexterity + 1
+* Strength + 1
+* Will + 1
+
+Boots of the White Tower
+
+* You deal double damage when Attacking orcs
+* HP + 3
+* Armor + 1
+
+Greaves of Imrahil
+
+* Bonus Action
+* Strength + 1
+* HP + 2
+* Armor + 1
+
+### Gondor
+
+Helm of the White Tower
+
+* When making a melee attack, you can make two attacks
+* Strength + 2
+* Will + 2
+* Armor + 1
+
+Battle horn
+
+* All allied Rolls for the next [Turn](../core_rules_game/index.qmd#turns) are [Enhanced](../core_rules_game/index.qmd#attacks)
+* Dexterity + 2
+* Strength + 2
+
+Tunic of the White Tower
+
+* Enter the fray with a heroic charge. All nearby allies make an extra Attack. 
+* Dexterity + 1
+* Strength + 1
+* Will + 1
+
+Boots of the White Tower
+
+* You deal double damage when Attacking orcs
+* HP + 3
+* Armor + 1
+
+Greaves of Imrahil
+
+* Bonus Action
+* Strength + 1
+* HP + 2
+* Armor + 1
+
+
+### Elf lord
+
+### Burglar
+
+
+
+

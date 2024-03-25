@@ -1,10 +1,10 @@
 ---
 title: "**RPG artefacts for your table**"
 listing:
-  contents: posts
+  contents: posts/*/index.qmd
   image-align: left
   fields: [image, title]
-  sort: "date desc"
+  sort: "date asc"
   type: default
   image-height: 200px 
   sort-ui: false

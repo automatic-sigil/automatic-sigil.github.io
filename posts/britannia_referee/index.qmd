@@ -1,0 +1,78 @@
+---
+title: "Britannia: referee info"
+image: images/lledr_valley.jpeg
+toc: true
+toc-location: right
+---
+
+![](images/lledr_valley.jpeg){width=70%}
+
+## Loot
+
+### Basic loot
+
+| Roll | Loot | Sell price | 
+|:--:|:-----:|:----:|
+| 1 | Wild herbs | 1 Copper |
+| 2 | Animal parts | 1 Copper | 
+| 3 | Ore | 1 Silver |
+| 4 | 10 Silver | |
+| 5 | Basic weapon | 5 Silver |
+| 6 | 5 Supply | 50 Copper |
+
+### Legendary loot 
+
+| Roll | Loot | Sell price | 
+|:--:|:-----:|:----:|
+| 1 | Elixer | 1 Gold |
+| 2 | Potion | 4 Gold | 
+| 3 | Legendary weapon | 1 Gold |
+| 4 | 3d100 Silver | |
+| 5 | 1d10 Ore | 1 Silver/Ore |
+| 6 | Legendary Weapon | 1 Gold |
+
+## Crafting 
+
+### Elixers
+
+Each Elixer grants a session bonus. A player can only have 1 Elixer active per session.
+
+Elixers can be crafted or bought at the Apothecary. 
+
+Cost:
+
+* 1 Gold, or
+* 10 Wild herbs and 10 Silver, or 
+* 5 Wild Herbs, 2 Animal parts, and 10 Silver
+
+Elixers have a random bonus:
+
+| Roll | Bonus |
+|:---:|:---------:|
+| 1 |  Double XP |
+| 2 | Add 1d4 to all attack rolls |
+| 3 | Add 1d4 to all saves |
+| 4 | Carry an extra 10 Supply with no cost |
+| 5 | 1d4 extra HP |
+| 6 | 1d4 bonus to 1 Ability Score | 
+
+### Potions 
+
+Potions restore all HP and Ability Score Damage.  Using a Potion takes a Turn if in combat. 
+
+Potions can be creafted or bought at the Apothecary.
+
+Cost:
+
+* 50 Wild herbs, 20 Animal parts, and 1 Gold, or
+* 4 Gold
+
+### Weapons 
+
+Weapons can be upgraded at a blacksmith.   Each upgrade grants 1d4 permanent damage to the weapon. 
+Cost:
+
+* 30 Ore and 50 Silver, or
+* 1 Gold
+
+## Merchants

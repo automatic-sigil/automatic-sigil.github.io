@@ -10,6 +10,9 @@ about:
     - icon: envelope
       text: Nostr
       href: https://snort.social/p/npub1w83qy86qakjqrp8r99cfxpm9ad43tswv3f9xqw87wt8kspdyj3tsqxynzu
+    - icon: github
+      text: Github
+      href: https://github.com/automatic-sigil/automatic-sigil.github.io
 
 ---
 

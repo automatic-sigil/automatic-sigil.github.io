@@ -1,0 +1,11 @@
+---
+title: "Alagaesia"
+image: images/alagaesia_map.png
+toc: true
+toc-location: right
+---
+
+
+This is where I stash my tabletop RPG creations.
+
+In this golden age of independent RPG content, I humbly offer these works to you. I hope you find them useful and inspiring. 

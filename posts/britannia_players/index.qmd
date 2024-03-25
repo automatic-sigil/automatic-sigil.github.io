@@ -1,0 +1,86 @@
+---
+title: "Britannia: player info"
+image: images/standing_stones.jpg
+toc: true
+toc-location: right
+---
+
+![](images/standing_stones.jpg){width=70%}
+
+
+
+A setting inspired by the TV show [Britannia](https://en.wikipedia.org/wiki/Britannia_(TV_series)), which was in turn inspired the historical events surrounding the Roman invasion of the British Isles.
+
+I am not a historian, and nothing about this is meant to be historically accurate. I’m just a dude on the internet who likes hex crawlin’ in ancient Albion, where the Romans are demons and the leader of the Druids is David Bowie.
+
+Under the banners of General Aulus Plautius, the Romans have returned to Britannia to complete the conquest attempted by Julius Caesar nearly a century ago. A war machine comprised of peoples and gods from the corners of the world, their arrival is a crawling chaos crashing over the land.
+
+As one prophetic druid put it, "the stones upon which Time itself stands… those stones have shifted. They’re collapsing. Crushing centuries, annihilating pantheons… the ghosts of all our dead churned into a whirlwind, incinerated in a single flash…and when it’s gone…."
+
+# Player characters
+
+## Starter loot
+
+|     | 1 HP | 2 HP | 3 HP | 4 HP | 5 HP | 6 HP |
+|--|--------|--------|--------|--------|--------|--------|
+| **3-9** | Great sword (d8) <br /> Sling (d4) <br /> Arcanum | Bow and arrow (d6) <br /> 10 Silver pieces <br />  Arcanum | Spear (d6) <br /> Shield (1) <br /> Arcanum | Farmer knife (d6) <br /> Horse <br /> Sling (d4) | Bow and arrow (d6) <br /> Horse <br /> Spear (d6) | War axe (d8) <br /> Shield (1) <br /> Arcanum |
+| **10**  | Spear (d6) <br /> Shield <br /> Arcanum | Shortsword (d6) <br /> Bow and arrow (d6) <br />  Arcanum | Walking stick (d6) <br /> Incense <br /> Arcanum | Sickle (d6) <br /> Hour glass <br /> Arcanum | Farmer knife (d6) <br /> Horse <br /> Arcanum  | Gladius (d6) <br /> [Legionary shield](https://en.wikipedia.org/wiki/Scutum) (2) <br />  Arcanum | 
+| **11** | Great axe (d8) <br /> Battle shield (2) <br /> Triple pipes | Sickle (d6) <br /> Hunting knife (d6) <br />  Arcanum| Shortsword (d6) <br /> Grappling hook <br /> War horn| Great sword (d8) <br /> 40 Silver <br /> Arcanum | Bow and arrow (d6) <br /> 1 gold piece <br /> Horse and chariot | Hierophant staff (d6) <br /> Quill and paper <br /> Arcanum |  
+| **12** | Spear (d6) <br /> [Legionary shield]((https://en.wikipedia.org/wiki/Scutum)) (2) <br /> [Nazar](https://en.wikipedia.org/wiki/Nazar_(amulet)) | Bow and arrow (d6) <br /> Hunting knife (d6) <br /> Arcanum | War axe (d8) <br /> Bow and Arrow <br /> Horse and wagon | Gladius (d6) <br /> Bow and Arrow (d6) <br /> Gladius (d6) | Dagger (d6) <br /> Horse <br /> Vial of poison | Spear (d6) <br /> Shield (1) <br /> Arcanum | 
+| **13** | Hunting knife (d6) <br /> Warhammer (d8) <br /> Fine leather armor (2) | Spear (d6) <br /> Dagger (d6) Horse and chariot | Gladius (d6) <br /> Legionary shield (2) | Spear (d6) <br /> [Legionary Shield]((https://en.wikipedia.org/wiki/Scutum)) (2) <br /> Arcanum | Great sword (d8) <br /> Bow and arrow (d6) <br /> Leather armor (1) | Sickle (d6) <br /> Walking stick (d6) <br /> Hour glass | 
+| **14** | Spear (d6) <br /> Legionary shield (2) Fine leather armor (2) | Bow and arrow (d6) <br /> Incense <br /> Arcanum | Warhammer (d8) <br /> Wolf pelt armor (1) <br /> War horn | Shortsword (d6) <br /> Shortsword (d6) <br /> Arcanum | Hunting knife (d6) <br /> 30 Silver <br /> Triple pipes | Spear (d6) <br /> Shield (1) <br /> Horse | 
+| **15** | Walking staff (d6) <br /> Bow and arrow (d6) <br /> Hunting knife (d6) | Sling (d4) <br /> Farmer knife (d6) <br /> 10 silver | Greatsword (d8) <br /> War horn <br /> Arcanum | Hunting knife (d6) <br /> Grapling hook <br /> Healing tea (heals d4 Strength)| Shortsword (d6) <br /> Battle shield (2) <br />  Horse | Axe (d6) <br /> Battle shield (2) <br /> Dagger (d6) | 
+| **16** | Warhammer (d8) <br /> Bow and arrow (d6) <br /> Arcanum | War axe (d8) <br /> Wof pelt armor (1) <br /> Horse and cart | Spear (d6) <br /> Great sword (d8) <br /> Fine leather armor (2) | Bow and armor (d6) <br /> Shortsword (d6) <br /> Horse | Farmer knife (d6) <br /> Walking staff (d6) Arcanum | Great sword (d8) <br /> War axe (d8) <br /> Arcanum | 
+| **17** | Bow and arrow (d6) <br /> Grappling hook <br /> Hour glass | Shortsword (d6) <br /> Dagger (d6) <br /> Arcanum | Hunting knife (d6) <br /> Silver [torc](https://en.wikipedia.org/wiki/Torc) | Spear (d6) <br /> Battle shield (2) <br /> Hunting knife | Walking stick (d6) <br /> Arcanum <br /> Arcanum | Bow and arrow (d6) 10 gold pieces <br /> Gold [torc](https://en.wikipedia.org/wiki/Torc) | 
+| **18** | Farmer knife (d6) <br /> Sickle (d6) <br /> 30 Silver | Bow and arrow (d6) <br /> Fine leather armor (2) <br /> Arcanum | Walking staff (d6) <br /> Incense <br /> Triple pipes | Great axe (d8) <br /> Fine leather armor (2) <br />  Donkey | Dagger (d6) <br /> Farmer knife (d6) <br /> Bow and arrow (d6) | Sling (d4) <br /> 10 Silver pieces <br /> Bronze [torc](https://en.wikipedia.org/wiki/Torc) | 
+
+
+
+
+
+
+
+## Starting arcana
+
+| Roll | Arcana | Description |
+|:----:|:--:|:-----------:|
+| 1 | Cauldron of Murias | A cauldron of bottomless plenty. Refresh 10 [Supply](../core_rules_game/index.qmd#supply) every morning. Once per day, make a Will [Save](../core_rules_game/index.qmd#saves) and attempt to pull from the cauldron any item that your heart desires. If you fail the Save you are pulled into the Otherworld. |
+| 2 | Spear of Gorias | 2d6 [Damage](../core_rules_game/index.qmd#damage-and-armor). Engravings of a gold eagle flank the blade of the spear. Enemies you pierce are struck with lightning that pulses from the spear.|
+| 3 | Sword of Finias | 2d6 [Damage](../core_rules_game/index.qmd#damage-and-armor). On your command, this sword can illuminate at the level of a bright torch. While this sword is on your person, you never decrement more than 1 [Supply](../core_rules_game/index.qmd#supply) per [Turn](../core_rules_game/index.qmd#turns). |
+| 4 | Triple pipes  | Playing these pipes allows you to summon an animal for 1 day.  The animal is friendly to you, and understands your intentions to a reasonable level. The animal will protect you if asked, but the Referee may ask for Will [Saves](../core_rules_game/index.qmd#saves) when the animal is taking damage to see if they run away. |
+| 5 | Egg of protection | A green gemstone, carved and polished into the shape of a chicken egg. Grasp the egg to create an invisible circle of protection that surrounds you completely in the shape of a large egg.  The protected area is big enough for 3 people, standing close together. Nothing you do not allow can pass the boundaries of the egg, including rain, smoke, projectiles, or people. If a determined attacker is attempting to enter, or an extremely large object falls on the protective barrier, the Referre may call for a Will save.  On failure, the egg shatters, rendered unusable. |
+| 6 | Seeking snake | A pet snake about 2.5 feet long with 1 HP. Once per turn, you may transform the snake into a seeking arrow with a fanged arrow head that deals d8 damage, ignoring HP. |
+| 7 | Oak carved spoon | Dip the spoon into a natural body of water, drink, and receive d6 healing to each of your Ability scores. |
+| 8 | Horseshoe | Keeping this on your person gives +2 [Armor](../core_rules_game/index.qmd#damage-and-armor). It also makes you a friend of horses, easily able to find and tame wild horeses. |
+| 9 | Cloak of invisibility | Really rare. Yes, others can still hear you or see your foot prints. |
+| 10 | Ochain of Conchobar | +3 [Armor](../core_rules_game/index.qmd#damage-and-armor).  A large shield that looks beat up, but is very sturdy.  It will warn you of dangers ahead if you ask it. |
+| 11 | Golden apple | The bearer of this apple can add +3 to any of their Ability scores.  You can shift the Ability score to which this applies once per day. |
+| 12 | Drowsy branch | A white branch dotted with silver leaves.  Shaking the branch creates beautiful, soothing music, that will lull any nearby humanoids to sleep. |
+| 13 | Seeing sticks | Cast these sticks and interpret the way they fall. You are immune to damage in your next combat encounter. |
+| 14 | Hour glass | Once per day, you can move extremely fast for 2 [Turns](../core_rules_game/index.qmd#turns). |
+| 15 | Black stone of Pessinus | A smooth black stone that fits in the palm of a hand. Once per day, you can fly into a rage that increases your Strength. Make 2 [Attacks](../core_rules_game/index.qmd#attacks) instead of 1, and your Attacks deal an additional d6 [Damage](../core_rules_game/index.qmd#damage-and-armor). |
+| 16 | Buck horn helmet | Bronze and leather helmet with antlers. Gain an extra damage dice to your [Spells](../core_rules_game/index.qmd#spell-casting). |
+| 17 | Bear skin cloak | Super warm and comfy. Once per [Turn](../core_rules_game/index.qmd#turns) use your Action to shield someone from [Damage](../core_rules_game/index.qmd#damage-and-armor). | 
+| 18 | Falcata | d12 [Damage](../core_rules_game/index.qmd#damage-and-armor). Ignore Damage done to you this [Turn](../core_rules_game/index.qmd#turns) if you roll above 9. |
+| 19 | White oak bow | d12 [Damage](../core_rules_game/index.qmd#damage-and-armor). If enemeies are in melee range, you can make an additional [Attack](../core_rules_game/index.qmd#attacks). |
+| 20 | Herb and resin incense | Once per day, you can light this incense, and everyone around you partakes of the benefits. For the next 10 [Turns](../core_rules_game/index.qmd#turns) all your Rolls are [Enhanced](../core_rules_game/index.qmd#attacks). |
+
+# Advancements
+
+| Advancement | Hit die |  Description | 
+|:----:|:--:|:-----------:|
+| Healer | d4 | Use your Action to tend to an injured ally.  Your medical skill, charms, and potions return d4+2 hit points. | 
+| Assassin | d6 |When you attack an enemy who  is unaware of your presence, your damage hits their Strength score directly, bypassing their hit points. | 
+| Sure-footed | d6 | You never lose your balance or grip in difficult or slippery terrain. Effectively, you don't need to make Dexterity Saves in situations that involve slipping, falling, or balancing.|
+| Thief | d6 | You can unlock any door, vault, or chest, and disarm any trap.  Use of your Thief tools does not cost an additional Supply per Turn. |
+| Silent steps | d6 | You always move completely silently. |
+| Blade in the dark | d6 | When you hide in deep shadow, you are invisible until someone is right on top of you. | 
+| Bowmaster | d6 | Make two attacks with your bow each turn. |
+| Berserker | d8 | You may choose to ignore the effects of damage taken by instead taking d6 Will damage. |
+| Ironclad | d8 | Double the value of any armor you wear.  Eg, 1 armor grants 2, 2 armor grants 4 |
+| Swashbuckler | d8 | Whenver you slay a target with a melee attack, you may immediately make and additional melee attack against another target within range. |
+
+
+
+
+
